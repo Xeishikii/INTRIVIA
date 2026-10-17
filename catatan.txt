@@ -1,0 +1,2 @@
+Saya sedang mempelajari branching dan merging
+untuk memahami alur kerja Git.
